@@ -13,5 +13,5 @@ This is Android Market App that lets you add products in a inventory online usin
 
 | API | Environments | Version |
 |-----|--------------|---------|
-| [Firebase](https://github.com/zloirock/core-js#readme)  | Android | V1 |
-| Android SDK | Android | 33 |
+| [Firebase](https://firebase.google.com/)  | Android | V1 |
+| [Android SDK](https://developer.android.com/studio) | Android | 33 |
