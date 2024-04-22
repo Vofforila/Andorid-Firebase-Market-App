@@ -1,4 +1,4 @@
-package com.example.firebase2;
+package com.example.vofforila;
 
 public class Product {
     private final String itemName;

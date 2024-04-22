@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.firebase2'
+    namespace 'com.example.vofforila'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.firebase2"
+        applicationId "com.example.vofforila"
         minSdk 24
         targetSdk 33
         versionCode 1
