@@ -5,7 +5,7 @@ This is Android Market App that lets you add products in a inventory online usin
 
 - **Online Database** - Using Firebase you can store all your data in a NoSQL Realtime Database
 - **Online Product Icons** - You can also add a Icon to a Product you want to add these are also stored using FireStorage
-- **Filtering** - You can Filter trought your items by category
+- **Filtering** - You can Filter through your items by category
 - **Sorted prices** - Items are also sorted by price from cheapest to priciest
 - **Realtime Update** - Updates Realtime by using Firebase API's
 
