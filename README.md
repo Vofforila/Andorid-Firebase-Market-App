@@ -9,9 +9,9 @@ This is Android Market App that lets you add products in a inventory online usin
 - **Sorted prices** - Items are also sorted by price from cheapest to priciest
 - **Realtime Update** - Updates Realtime by using Firebase API's
 
-### API's
+### Tehnologies
 
-| API | Environments | Version |
+| Tehnologies | Environments | Version |
 |-----|--------------|---------|
 | [Firebase](https://firebase.google.com/)  | Android | V1 |
 | [Android SDK](https://developer.android.com/studio) | Android | 33 |
