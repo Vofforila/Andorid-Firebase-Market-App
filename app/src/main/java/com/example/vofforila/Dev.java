@@ -78,8 +78,10 @@ public class Dev extends AppCompatActivity {
     public void AddProdusToDatabase(View view) {
 
         FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference myRef = database.getReference("Products");
+        System.out.println(database);
 
+        DatabaseReference myRef = database.getReference("Products");
+        System.out.println(myRef);
         Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT);
         intent.addCategory(Intent.CATEGORY_OPENABLE);
         intent.setType("image/*");

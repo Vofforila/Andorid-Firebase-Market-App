@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "481400981162",
-    "firebase_url": "https://projects-175f8-default-rtdb.europe-west1.firebasedatabase.app",
-    "project_id": "projects-175f8",
-    "storage_bucket": "projects-175f8.appspot.com"
+    "project_number": "875733790804",
+    "firebase_url": "https://flutter-85128-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-85128",
+    "storage_bucket": "flutter-85128.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:481400981162:android:4c4cd9409115205668f2d3",
+        "mobilesdk_app_id": "1:875733790804:android:cacc8f94f56266b47e3dc1",
         "android_client_info": {
           "package_name": "com.example.vofforila"
         }
@@ -16,7 +16,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCnj7VY_JkOx7zBXadbEEOJYCNxPYAKROM"
+          "current_key": "AIzaSyCuKyctAEbZLmJNFj5yLIWdBu2XAdS0aXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875733790804:android:2c8b1dfa943cca6b7e3dc1",
+        "android_client_info": {
+          "package_name": "com.vofforila.shopping_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKyctAEbZLmJNFj5yLIWdBu2XAdS0aXk"
         }
       ],
       "services": {
